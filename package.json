@@ -1,0 +1,17 @@
+{
+  "name": "testing-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jes": "^0.6.1",
+    "jest": "^27.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
